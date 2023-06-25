@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm b0uu.
+
+- 🔭 I’m currently working on gaining practical experience through project building
+- 🌱 I’m currently learning Web Development, App Development, Design, and more!
+- 📫 How to reach me: boomoxx@gmail.com
+- ⚡ Fun fact: I type faster than you (maybe)
 
 <!--
 **b0uu/b0uu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
