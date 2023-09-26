@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on gaining practical experience through project building
 - 🌱 I’m currently learning Web Development, App Development, Design, and more!
-- 📫 How to reach me: boomoxx@gmail.com
 - ⚡ Fun fact: I type faster than you (maybe)
 
 <!--
