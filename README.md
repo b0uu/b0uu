@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm b0uu.
 
-- 🔭 I’m currently working on gaining practical experience through project building
-- 🌱 I’m currently learning Backend Development, App Development, Web Development, Design, and more!
+- 🔭 I’m currently working on gaining practical experience by building practical projects. (Most of my repositories are private)
+- 🌱 I’m currently learning Backend Development, App Development, Web Development, Design, and more.
 - ⚡ Fun fact: I type faster than you
 
 <!--
