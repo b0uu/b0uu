@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm b0uu.
 
 - 🔭 I’m currently working on gaining practical experience by building practical projects.
-- 🌱 I’m currently studying Computer Science
+- 🌱 I’m currently studying Computer Science & Finance
 - ⚡ Fun fact: I type faster than you
 
 <!--
